@@ -25,9 +25,9 @@ tabulate s
 pwcorr lnw s expr, sig star(0.05)
 
 ```
-![graph](../images/Graph.png)
-![image1](../images/Snipaste_2020-03-01_21-57-43.png)
-![image2](../images/Snipaste_2020-03-01_21-58-48.png)
+![graph](../homework1/images/Graph.png)
+![image1](../homework1/images/Snipaste_2020-03-01_21-57-43.png)
+![image2](../homework1/images/Snipaste_2020-03-01_21-58-48.png)
 
 
 ### 课件3
@@ -59,13 +59,13 @@ twoway function t1=tden(1,x),range(-5 5) || function t5=tden(5,x),range(-5 5) lp
 
 twoway function F20=Fden(10,20,x),range(0 5) || function F5=Fden(10,5,x),range(0 5)lpattern(dash) ytitle(概率密度)
 ```
-![image3](../images/Snipaste_2020-03-01_22-08-31.png)
-![image4](../images/Snipaste_2020-03-01_22-20-17.png)
-![image](../images/hist.png)
-![image](../images/kd.png)
-![image](../images/twoway.png)
-![image](../images/normal.png)
-![image](../images/normal2gph.png)
-![image](../images/chi.png)
-![image](../images/t.png)
-![image](../images/f.png)
+![image3](../homework1/images/Snipaste_2020-03-01_22-08-31.png)
+![image4](../homework1/images/Snipaste_2020-03-01_22-20-17.png)
+![image](../homework1/images/hist.png)
+![image](../homework1/images/kd.png)
+![image](../homework1/images/twoway.png)
+![image](../homework1/images/normal.png)
+![image](../homework1/images/normal2gph.png)
+![image](../homework1/images/chi.png)
+![image](../homework1/images/t.png)
+![image](../homework1/images/f.png)
